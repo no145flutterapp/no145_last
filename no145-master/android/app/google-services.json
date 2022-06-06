@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948259702635",
+    "project_id": "focustask-bf8ee",
+    "storage_bucket": "focustask-bf8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948259702635:android:d4ba0cd2798c417d1d2e2e",
+        "android_client_info": {
+          "package_name": "com.example.no145"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948259702635-ud3ar4ejml2rl8nhdg4o030ojh0tlv14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUu1hkUkjouUG5PuD_7qYFDgG_negLURo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948259702635-ud3ar4ejml2rl8nhdg4o030ojh0tlv14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+name: no145
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  introduction_screen: ^3.0.2
+  cupertino_icons: ^1.0.2
+  sleek_circular_slider: ^2.0.1
+  shared_preferences: ^2.0.7
+  intl: ^0.17.0
+  flutter_launcher_icons: ^0.9.2
+  url_launcher: ^6.0.10
+
+
+dev_dependencies:
+
+  flutter_test:
+    sdk: flutter
+  fluttertoast: ^8.0.9
+  firebase_auth: ^3.3.17
+  firebase_core: ^1.16.0
+  cloud_firestore: ^3.1.14
+  firebase_storage: ^10.2.15
+  image_picker: ^0.8.5
+
+
+
+
+  flutter_lints: ^1.0.4
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: Lobster
+      fonts:
+        - asset: build/app/intermediates/flutter/debug/flutter_assets/Lobster-Regular.ttf
+
+    - family: Chewy
+      fonts:
+        - asset: build/app/intermediates/flutter/debug/flutter_assets/Chewy-Regular.ttf
+
+    - family: Fredoka
+      fonts:
+        - asset: build/app/intermediates/flutter/debug/flutter_assets/FredokaOne-Regular.ttf
